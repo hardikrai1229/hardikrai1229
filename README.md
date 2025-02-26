@@ -51,4 +51,5 @@ Actively looking for software engineering internships
 - GitHub: [github.com/hardikrai1229](https://github.com/hardikrai1229)
 - LinkedIn: [linkedin.com/in/hardik-rai-283944259](http://www.linkedin.com/in/hardik-rai-283944259)
 - Email: [hardik.rai77a@gmail.com](mailto:hardik.rai77a@gmail.com)
+- Resume- [https://drive.google.com/file/d/11FnGBi_MpDyAMY_FXYu9_YaH0W3rm7hw/view?usp=sharing)
 
