@@ -1,12 +1,16 @@
-# Hi, I'm Hardik! 
+Hi, I'm Hardik! 🚀
+About Me
+I'm a passionate software developer with experience in real-time applications, cloud computing, and security-focused projects. I enjoy solving problems using data structures & algorithms and have a strong interest in cloud security.
 
-## 🚀 About Me
-I'm a passionate developer with experience in Software Development. I love working on real-time applications, cloud computing, and security-focused projects. My interests span across **data structures & algorithms, and cloud security**.
-
-##🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun 
-##🏆 AWS Certified | Multiple Cloud & Security Certifications
-##🌱 Currently exploring Docker, Kubernetes, and AI-driven automation
-##🎯 Seeking software engineering internships
+🎓 Education
+B.Tech in Computer Science (2022-2026) | UPES, Dehradun
+🏆 Certifications
+AWS Certified
+Multiple certifications in Cloud & Security
+🌱 Currently Exploring
+Docker, Kubernetes, and AI-driven automation
+🎯 Seeking Opportunities
+Actively looking for software engineering internships
 
 ## 🔥 Recent Projects
 ### 🛠 Live Collaboration Tool
