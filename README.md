@@ -2,10 +2,11 @@
 
 ## 🚀 About Me
 I'm a passionate developer with experience in Software Development. I love working on real-time applications, cloud computing, and security-focused projects. My interests span across **data structures & algorithms, and cloud security**.
-🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun 
-🏆 AWS Certified | Multiple Cloud & Security Certifications
-🌱 Currently exploring Docker, Kubernetes, and AI-driven automation
-🎯 Seeking software engineering internships
+
+##🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun 
+##🏆 AWS Certified | Multiple Cloud & Security Certifications
+##🌱 Currently exploring Docker, Kubernetes, and AI-driven automation
+##🎯 Seeking software engineering internships
 
 ## 🔥 Recent Projects
 ### 🛠 Live Collaboration Tool
