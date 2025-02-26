@@ -34,7 +34,7 @@ Actively looking for software engineering internships
 ### 📊 Resource Scaling Through Monte Carlo
 - **Tech Stack:** Java, Monte Carlo Simulation
 - **Description:** Implemented a **real-time resource scaling model** using Monte Carlo methods to optimize cloud resource allocation.
-- **Status:** In Progress
+- **Status:** Completed
 
 ### 🧬 Lack of Regulation on Genetically Engineered Microorganisms
 - **Tech Stack:** C, Formal Languages, Automata Theory
